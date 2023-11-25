@@ -12,7 +12,7 @@ aidencaptcha@gmail.com
 
 
 # 更新说明
-2023-11-14: 上线 VivoPhoneAuthCheckSpider 【vivo官网-手机真伪查询】 案例
+2023-11-25: 上线 VivoPhoneAuthCheckSpider 【vivo官网-手机真伪查询】 案例
 
 # 演示效果图
 (这里是单ip, 且做了限速处理, 真实情况20qps也无压力)
