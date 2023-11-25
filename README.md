@@ -17,7 +17,7 @@ aidencaptcha@gmail.com
 # 演示效果图
 (这里是单ip, 且做了限速处理, 真实情况20qps也无压力)
 
-![image](https://github.com/aidencaptcha/HuXiuSpider/blob/main/examples/screenshots.gif)
+![image](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/blob/main/examples/screenshots.gif)
 
 
 
