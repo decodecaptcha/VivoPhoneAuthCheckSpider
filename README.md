@@ -6,9 +6,8 @@ api 地址
 
 * [DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak)
 
-有需求请在邮箱联系
 
-aidencaptcha@gmail.com
+有需求请访问：https://decodecaptcha.com
 
 
 # 更新说明
